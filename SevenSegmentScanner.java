@@ -6,7 +6,7 @@ import java.math.*;
  * Auto-generated code below aims at helping you parse
  * the standard input according to the problem statement.
  **/
-class Solution {
+class SevenSegmentScanner {
 
     public static final String PATTERN_EMPTY = "   ";
     public static final String PATTERN_UNDERLINE = " _ ";
